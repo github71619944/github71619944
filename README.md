@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**github71619944/github71619944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <image src="https://giphy.com/embed/x8I4MxjjpwBNfYccbj" width="480" height="201" ></image>
+    <h1 align="center">Hi dude 👋, I'm Marcia</h1>
+    <h3 align="center">I am a student of Telecommunications Engineering. Thanks for getting here.<h3>
+</div>
 
-Here are some ideas to get you started:
+<div id="budgets" align="center"></div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
