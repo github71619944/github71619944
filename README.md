@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-    <image src="https://giphy.com/embed/x8I4MxjjpwBNfYccbj" width="480" height="201" ></image>
     <h1 align="center">Hi dude 👋, I'm Marcia</h1>
     <h3 align="center">I am a student of Telecommunications Engineering. Thanks for getting here.<h3>
 </div>
